@@ -1,0 +1,5 @@
+# Visual Studio
+.vs/
+*.ipch
+*.user
+*.sln.docstates
